@@ -16,6 +16,14 @@ We chose the name **Quintic** (referring to a degree-5 polynomial) because it re
 
 Just as a quintic equation has complex solutions, our team solves the complex, multi-dimensional problems of rural Bharat with a unified, elegant formula.
 
+### The Philosophy of "Kalyan" (Nomen est Omen)
+
+In a linguistically fragmented nation like India, finding a single word that resonates across 22+ official languages is a challenge. We chose **Kalyan** not just as a name, but as a semantic anchor.
+
+* **Etymological Universality:** Derived from the Sanskrit root *Kalyāṇa* (कल्याण), the term transcends regional barriers. Whether in Hindi, Kannada, Telugu, or Marathi, it universally signifies **"Welfare," "Auspiciousness," and "Holistic Well-being"**.
+* **The Trust Signal:** For a rural citizen, "Technology" often implies friction, but "Kalyan" implies **Benefit**. By adopting the nomenclature used in massive state welfare programs (e.g., *Garib Kalyan Yojana*), our agent inherits an immediate, subconscious layer of trust and familiarity.
+* **Beyond Utility:** While "Help" or "Seva" implies service, *Kalyan* implies a transformative state of prosperity. Our agent isn't just a helper; it is an engine for **Economic Auspiciousness**.
+
 ---
 
 ## Project Documentation
