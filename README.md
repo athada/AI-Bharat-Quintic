@@ -1,7 +1,7 @@
 # Team Quintic: AI for Bharat Hackathon
 
 ## Team Information
-* **Team Name:** Quintic
+* **Team Name:** Quintic | Intelligence in Every Dimension
 * **Agent Name:** Kalyan Agent
 * **Team Leader:** Ayush Thada
 * **Team Member:** Aanchal Kandpal
